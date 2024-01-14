@@ -18,7 +18,7 @@ This project is designed for Java developers who are eager to explore Dart progr
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/your-username/dart-learning-playground.git
+git clone https://github.com/MBagrat/dart-learning-playground.git
 ```
 2. **Explore the Tutorials**:
 Start with the tutorials in the `tutorials` directory. Each tutorial is a step-by-step guide to mastering Dart.
