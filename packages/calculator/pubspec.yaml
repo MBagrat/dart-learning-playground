@@ -1,5 +1,5 @@
-name: learningdart
-description: A sample command-line application.
+name: calculator
+description: A sample calculator library.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
@@ -9,8 +9,6 @@ environment:
 # Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
-  calculator:
-    path: 'packages/calculator'
 
 dev_dependencies:
   lints: ^3.0.0
